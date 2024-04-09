@@ -12,13 +12,14 @@ body {
 	font-size: 14 px;
 	line-height: 24 px;
 	font-weight: 700;
-	color: var(--white);
+	color: var(--text-black);
 	text-transform: uppercase ;
-	background-color: var(--white);
+	background-color: var(--phone);
 	background-image: url("img/Rectangle 1 (1).png");
 	background-position: top center;
 	background-repeat: no-repeat;
-	background-size:100%
+	background-size:100%;
+	text-decoration: none;
 }
 
 a{
@@ -28,3 +29,4 @@ img{
 	max-width: 100%;
 	height: auto;
 }
+
